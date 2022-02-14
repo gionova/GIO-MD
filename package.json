@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@adiwajshing/keyed-db": "github:adiwajshing/keyed-db",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
@@ -40,6 +40,7 @@
     "node-webpmux": "^3.1.0",
     "os": "^0.1.2",
     "path": "^0.12.7",
+    "typescript": "^4.5.5",
     "perf_hooks": "0.0.1",
     "pino": "^7.0.5",
     "qrcode-terminal": "^0.12.0",
